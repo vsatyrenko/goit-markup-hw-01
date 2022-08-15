@@ -18,6 +18,7 @@ img{
 
 body{
     font-family: 'Roboto', sans-serif;
+
 }
 
 .logo, .logo-header {
@@ -52,6 +53,7 @@ font-family: 'Roboto', sans-serif;
         font-size: 14px;
         line-height: 1.14;
         letter-spacing: 0.02em;
+        color: #757575
         
     
 }
@@ -103,7 +105,6 @@ color: #2196F3;cursor: pointer;
 
 .subtitle{
     font-family: 'Roboto', sans-serif;
-        font-style: normal;
         font-weight: 700;
         font-size: 14px;
         line-height: 1.14;
